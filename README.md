@@ -14,7 +14,7 @@ The system was designed to digitize the traditional canteen ordering process at 
 
 The employee application was developed using **React Native** to provide a convenient mobile experience for Sachivalay employees.
 
-![Sachivalay Canteen App Preview](screenshots/app-overview.png)
+![Sachivalay Canteen App Preview](screenshots/app-overview.jpg)
 
 ---
 
@@ -90,11 +90,11 @@ The home screen provides a food discovery experience with:
 - 🔔 Notifications
 - Navigation to different sections of the application
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.jpg)
 
 ### Alternative Home Screen
 
-![Alternative Home Screen](screenshots/home-alternative.png)
+![Alternative Home Screen](screenshots/home-alternative.jpg)
 
 ---
 
@@ -110,13 +110,13 @@ Employees can browse available dishes along with:
 - Availability
 - Add-to-basket controls
 
-![Food Menu](screenshots/menu.png)
+![Food Menu](screenshots/menu.jpg)
 
 ### Detailed Food Listing
 
 The application also distinguishes unavailable food items from available items while displaying their prices and ratings.
 
-![Food Listing](screenshots/food-list.png)
+![Food Listing](screenshots/food-list.jpg)
 
 ---
 
@@ -126,7 +126,7 @@ Each food item has a dedicated details screen where employees can view the item,
 
 Employees can select the required quantity before adding the item to their basket.
 
-![Food Details](screenshots/food-details.png)
+![Food Details](screenshots/food-details.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ The basket displays:
 
 Employees can review their order before proceeding to payment.
 
-![Basket](screenshots/basket.png)
+![Basket](screenshots/basket.jpg)
 
 ---
 
@@ -153,7 +153,7 @@ Employees can view their current wallet balance and use the available balance wh
 
 The project also included an online payment flow for situations where the wallet balance was insufficient.
 
-![Payment Gateway](screenshots/payment.png)
+![Payment Gateway](screenshots/payment.jpg)
 
 ### Payment Flow
 
@@ -183,7 +183,7 @@ Check Wallet Balance
 
 The project prototype also included an online payment interface alongside the wallet-based payment option.
 
-![Online Payment](screenshots/online-payment.png)
+![Online Payment](screenshots/online-payment.jpg)
 
 ---
 
@@ -202,7 +202,7 @@ The profile section provides access to:
 - About section
 - Logout
 
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.jpg)
 
 ---
 
@@ -246,7 +246,7 @@ Login
                Stop
 ```
 
-![Employee Workflow](screenshots/employee-flow.png)
+![Employee Workflow](screenshots/employee-flow.jpg)
 
 ---
 
@@ -274,7 +274,7 @@ The complete project consisted of an employee mobile application together with w
                               Database
 ```
 
-![Overall System Flow](screenshots/system-flow.png)
+![Overall System Flow](screenshots/system-flow.jpg)
 
 ---
 
@@ -292,7 +292,7 @@ The canteen manager can also view and manage incoming orders.
 
 The employee application includes an authentication flow for accessing the mobile application.
 
-![Sign In](screenshots/sign-in.png)
+![Sign In](screenshots/sign-in.jpg)
 
 ---
 
@@ -391,7 +391,7 @@ The project was developed as a solution to a real-world government canteen digit
 
 The employee application was released through **Google Play** during the project period.
 
-![Google Play Listing](screenshots/play-store.png)
+![Google Play Listing](screenshots/play-store.jpg)
 
 The published application received positive feedback during its release period.
 
@@ -442,27 +442,27 @@ My work included:
 
 ### Home — Alternative UI
 
-![Alternative Home Screen](screenshots/home-alternative.png)
+![Alternative Home Screen](screenshots/home-alternative.jpg)
 
 ### Food Listing
 
-![Food Listing](screenshots/food-list.png)
+![Food Listing](screenshots/food-list.jpg)
 
 ### Food Details
 
-![Food Details](screenshots/food-details.png)
+![Food Details](screenshots/food-details.jpg)
 
 ### Basket
 
-![Basket](screenshots/basket.png)
+![Basket](screenshots/basket.jpg)
 
 ### Profile
 
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.jpg)
 
 ### Payment
 
-![Payment](screenshots/payment-alternative.png)
+![Payment](screenshots/payment-alternative.jpg)
 
 ---
 
@@ -541,19 +541,19 @@ The README references the following screenshots:
 
 ```text
 screenshots/
-├── app-overview.png
-├── sign-in.png
-├── home.png
-├── home-alternative.png
-├── menu.png
-├── food-list.png
-├── food-details.png
-├── basket.png
-├── profile.png
-├── payment.png
-├── payment-alternative.png
-├── online-payment.png
-├── play-store.png
-├── employee-flow.png
-├── system-flow.png
+├── app-overview.jpg
+├── sign-in.jpg
+├── home.jpg
+├── home-alternative.jpg
+├── menu.jpg
+├── food-list.jpg
+├── food-details.jpg
+├── basket.jpg
+├── profile.jpg
+├── payment.jpg
+├── payment-alternative.jpg
+├── online-payment.jpg
+├── play-store.jpg
+├── employee-flow.jpg
+├── system-flow.jpg
 ```
