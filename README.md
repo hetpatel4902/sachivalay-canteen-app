@@ -4,6 +4,10 @@ A digital food ordering and canteen management solution developed for the **Guja
 
 The system was designed to digitize the traditional canteen ordering process at Sachivalay by providing an employee-facing mobile application for browsing food, placing orders, managing a digital wallet, making payments, and viewing order history.
 
+> 🧑‍🤝‍🧑 **Team project** — this repository was forked from a teammate's original submission repo. 
+> I was responsible for the **employee-facing React Native mobile application**; see 
+> [My Contribution](#-my-contribution) below for full details.
+
 > 🏆 **1st Prize — Gujarat Government SSIP Hackathon**
 >
 > Selected as the winning team among **2,500+ teams across Gujarat**.
