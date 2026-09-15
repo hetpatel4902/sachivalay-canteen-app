@@ -14,7 +14,7 @@ The system was designed to digitize the traditional canteen ordering process at 
 
 The employee application was developed using **React Native** to provide a convenient mobile experience for Sachivalay employees.
 
-![Sachivalay Canteen App Preview](screenshots/app-overview.jpg)
+<img src="screenshots/app-overview.jpg" width="650">
 
 ---
 
@@ -90,11 +90,11 @@ The home screen provides a food discovery experience with:
 - 🔔 Notifications
 - Navigation to different sections of the application
 
-![Home Screen](screenshots/home.jpg)
+<img src="screenshots/home.jpg" width="250">
 
 ### Alternative Home Screen
 
-![Alternative Home Screen](screenshots/home-alternative.jpg)
+<img src="screenshots/home-alternative.jpg)" width="250">
 
 ---
 
@@ -110,13 +110,13 @@ Employees can browse available dishes along with:
 - Availability
 - Add-to-basket controls
 
-![Food Menu](screenshots/menu.jpg)
+<img src="screenshots/menu.jpg" width="250">
 
 ### Detailed Food Listing
 
 The application also distinguishes unavailable food items from available items while displaying their prices and ratings.
 
-![Food Listing](screenshots/food-list.jpg)
+<img src="screenshots/food-list.jpg" width="250">
 
 ---
 
@@ -126,7 +126,7 @@ Each food item has a dedicated details screen where employees can view the item,
 
 Employees can select the required quantity before adding the item to their basket.
 
-![Food Details](screenshots/food-details.jpg)
+<img src="screenshots/food-details.jpg" width="250">
 
 ---
 
@@ -141,7 +141,7 @@ The basket displays:
 
 Employees can review their order before proceeding to payment.
 
-![Basket](screenshots/basket.jpg)
+<img src="screenshots/basket.jpg" width="250">
 
 ---
 
@@ -153,7 +153,7 @@ Employees can view their current wallet balance and use the available balance wh
 
 The project also included an online payment flow for situations where the wallet balance was insufficient.
 
-![Payment Gateway](screenshots/payment.jpg)
+<img src="screenshots/payment.jpg" width="250">
 
 ### Payment Flow
 
@@ -183,7 +183,7 @@ Check Wallet Balance
 
 The project prototype also included an online payment interface alongside the wallet-based payment option.
 
-![Online Payment](screenshots/online-payment.jpg)
+<img src="screenshots/online-payment.jpg" width="250">
 
 ---
 
@@ -202,7 +202,7 @@ The profile section provides access to:
 - About section
 - Logout
 
-![Profile](screenshots/profile.jpg)
+<img src="screenshots/profile.jpg" width="250">
 
 ---
 
@@ -246,7 +246,7 @@ Login
                Stop
 ```
 
-![Employee Workflow](screenshots/employee-flow.jpg)
+<img src="screenshots/employee-flow.jpg" width="250">
 
 ---
 
@@ -274,7 +274,7 @@ The complete project consisted of an employee mobile application together with w
                               Database
 ```
 
-![Overall System Flow](screenshots/system-flow.jpg)
+<img src="screenshots/system-flow.jpg" width="250">
 
 ---
 
@@ -292,7 +292,7 @@ The canteen manager can also view and manage incoming orders.
 
 The employee application includes an authentication flow for accessing the mobile application.
 
-![Sign In](screenshots/sign-in.jpg)
+<img src="screenshots/sign-in.jpg" width="250">
 
 ---
 
@@ -391,7 +391,7 @@ The project was developed as a solution to a real-world government canteen digit
 
 The employee application was released through **Google Play** during the project period.
 
-![Google Play Listing](screenshots/play-store.jpg)
+<img src="screenshots/play-store.jpg" width="250">
 
 The published application received positive feedback during its release period.
 
@@ -442,27 +442,27 @@ My work included:
 
 ### Home — Alternative UI
 
-![Alternative Home Screen](screenshots/home-alternative.jpg)
+<img src="screenshots/home-alternative.jpg" width="250">
 
 ### Food Listing
 
-![Food Listing](screenshots/food-list.jpg)
+<img src="screenshots/food-list.jpg" width="250">
 
 ### Food Details
 
-![Food Details](screenshots/food-details.jpg)
+<img src="screenshots/food-details.jpg" width="250">
 
 ### Basket
 
-![Basket](screenshots/basket.jpg)
+<img src="screenshots/basket.jpg" width="250">
 
 ### Profile
 
-![Profile](screenshots/profile.jpg)
+<img src="screenshots/profile.jpg" width="250">
 
 ### Payment
 
-![Payment](screenshots/payment-alternative.jpg)
+<img src="screenshots/payment-alternative.jpg" width="250">
 
 ---
 
